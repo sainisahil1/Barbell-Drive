@@ -42,6 +42,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         tools:listitem="@layout/exercise_item_layout"
         tools:itemCount="4"
+        android:nestedScrollingEnabled="false"
+        android:id="@+id/exercise_recyclerview"
         />
 
 

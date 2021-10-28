@@ -4,12 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/BarbellDrive/app/src/main/res/drawable-anydpi/ic_add_color_text.xml" value="0.2703125" />
+        <entry key="..\:/BarbellDrive/app/src/main/res/drawable-anydpi/ic_home_white.xml" value="0.2703125" />
+        <entry key="..\:/BarbellDrive/app/src/main/res/drawable/bottom_nav_color.xml" value="0.2703125" />
         <entry key="..\:/BarbellDrive/app/src/main/res/drawable/slashed_line.xml" value="0.2703125" />
         <entry key="..\:/BarbellDrive/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
         <entry key="..\:/BarbellDrive/app/src/main/res/layout/exercise_item_layout.xml" value="0.4" />
         <entry key="..\:/BarbellDrive/app/src/main/res/layout/fragment_home.xml" value="0.264" />
         <entry key="..\:/BarbellDrive/app/src/main/res/layout/toolbar_layout.xml" value="0.264" />
         <entry key="..\:/BarbellDrive/app/src/main/res/layout/week_item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/BarbellDrive/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

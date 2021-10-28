@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_home_white"
+        android:id="@+id/nav_home"
+        />
+
+    <item
+        android:title="Weight"
+        android:icon="@drawable/ic_scale"
+        android:id="@+id/nav_scale"
+        />
+
+    <item
+        android:title="Resources"
+        android:icon="@drawable/ic_barbell"
+        android:id="@+id/nav_barbell"
+        />
+
+</menu>
